@@ -1,0 +1,23 @@
+[
+    {
+        "pytanie": "Czy program Tobie sie podba?",
+        "odp": [
+            "Tak",
+            "Nie",
+            "Nie wiem",
+            "Nie odpowiem"
+        ]
+
+    },
+    {
+        "pytanie": "Co będziesz robił na feriach?",
+        "odp": [
+            "Pracował",
+            "Uczy się",
+            "Wypoczywał",
+            "Nie wiem"
+        ]
+
+    }
+
+]
